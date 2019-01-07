@@ -1,0 +1,22 @@
+{
+  "name": "ts-study",
+  "version": "1.0.0",
+  "description": "ts-studyu",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ts-study"
+  ],
+  "author": "mopsy",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.28.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.2",
+    "webpack-cli": "^3.2.1"
+  }
+}
